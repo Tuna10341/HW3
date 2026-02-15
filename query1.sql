@@ -1,0 +1,5 @@
+CREATE TABLE MusicVideos (
+  TrackId INTEGER PRIMARY KEY,
+  VideoDirector NVARCHAR(120) NOT NULL,
+  FOREIGN KEY (TrackId) REFERENCES tracks(TrackId)
+);

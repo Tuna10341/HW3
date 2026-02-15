@@ -1,0 +1,10 @@
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (1, 'John');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (2, 'Alex');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (3, 'Tammy');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (4, 'Nikhil');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (5, 'Jackson');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (6, 'Alan');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (7, 'Taylor');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (8, 'Mason');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (9, 'Jordan');
+INSERT INTO MusicVideos (TrackId, VideoDirector) VALUES (10, 'Ava');
